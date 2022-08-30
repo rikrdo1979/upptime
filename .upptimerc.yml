@@ -14,7 +14,7 @@ sites:
   - name: Lugar de la Luz
     url: https://www.lugardelaluz.es/guests
   - name: Terapia Visual
-    url: https://www.terapiavisualsanpedrodealcantara.com
+    url: https://terapiavisualsanpedrodealcantara.com
   - name: Nextcloud Pi
     url: https://ftprikrdo.duckdns.org
   - name: Gitea
