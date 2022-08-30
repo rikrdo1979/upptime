@@ -31,6 +31,8 @@ status-website:
   #introTitle: "**Upptime** by GitHub."
   #introMessage: "Sites Monitoring - **rikrdo.es**"
   #introTitle: "*rikrdo.es** sites monitoring"
+  favicon: https://rikrdo.es/images/logo-re.png
+  faviconSvg: https://rikrdo.es/images/logo-re.svg
   navbar:
     - title: Info
       href: https://www.rikrdo.es/cv
