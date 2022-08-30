@@ -32,7 +32,7 @@ status-website:
   introMessage: "Sites Monitoring - **rikrdo.es**"
   navbar:
     - title: Status
-      href: /
+      href: github.com/rikrdo1979/upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
