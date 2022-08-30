@@ -6,19 +6,19 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: Natural
-    url: https://mercadodevida.es
+    url: https://www.mercadodevida.es
   - name: comerecologico.com
-    url: https://comerecologico.com
+    url: https://www.comerecologico.com
   - name: rikrdo.es
-    url: https://rikrdo.es
+    url: https://www.rikrdo.es/cv
   - name: Lugar de la Luz
-    url: https://lugardelaluz.es/guests/
+    url: https://www.lugardelaluz.es/guests/
   - name: Terapia Visual
-    url: https://terapiavisualsanpedrodealcantara.com/
+    url: https://www.terapiavisualsanpedrodealcantara.com/
   - name: Nextcloud Pi
-    url: https://ftprikrdo.duckdns.org
+    url: https://www.ftprikrdo.duckdns.org
   - name: Gitea
-    url: http://gitrikrdo.duckdns.org:3000/
+    url: http://www.gitrikrdo.duckdns.org:3000/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
