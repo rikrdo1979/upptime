@@ -25,7 +25,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: github.com/rikrdo1979/upptime
   baseUrl: /upptime
-  theme: night
+  theme: light
   logoUrl: https://rikrdo.es/images/logo-re.svg
   name: re
   #introTitle: "**Upptime** by GitHub."
