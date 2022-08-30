@@ -95,18 +95,18 @@
     "icon": "https://favicons.githubusercontent.com/terapiavisualsanpedrodealcantara.com",
     "slug": "terapia-visual",
     "status": "up",
-    "uptime": "80.08%",
-    "uptimeDay": "80.08%",
-    "uptimeWeek": "80.08%",
-    "uptimeMonth": "80.08%",
-    "uptimeYear": "80.08%",
+    "uptime": "81.15%",
+    "uptimeDay": "81.15%",
+    "uptimeWeek": "81.15%",
+    "uptimeMonth": "81.15%",
+    "uptimeYear": "81.15%",
     "time": 1220,
     "timeDay": 1220,
     "timeWeek": 1220,
     "timeMonth": 1220,
     "timeYear": 1220,
     "dailyMinutesDown": {
-      "2022-08-30": 162
+      "2022-08-30": 153
     }
   },
   {
