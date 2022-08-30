@@ -28,7 +28,7 @@ status-website:
   # cname: github.com/rikrdo1979/upptime
   baseUrl: /upptime
   theme: light
-  logoUrl: https://rikrdo.es/images/logo-re.svg
+  logoUrl: https://github.com/rikrdo1979/upptime/blob/master/assets/logo-re.png
   name: ""
   #introTitle: "**Upptime** by GitHub."
   #introMessage: "Sites Monitoring - **rikrdo.es**"
