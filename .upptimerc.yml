@@ -30,7 +30,7 @@ status-website:
   name: ""
   #introTitle: "**Upptime** by GitHub."
   #introMessage: "Sites Monitoring - **rikrdo.es**"
-  introTitle: "*rikrdo.es** sites monitoring"
+  #introTitle: "*rikrdo.es** sites monitoring"
   navbar:
     - title: Info
       href: https://www.rikrdo.es/cv
