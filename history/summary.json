@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 92,
-    "timeWeek": 92,
-    "timeMonth": 92,
-    "timeYear": 92,
+    "time": 91,
+    "timeDay": 91,
+    "timeWeek": 91,
+    "timeMonth": 91,
+    "timeYear": 91,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2188,
-    "timeDay": 2188,
-    "timeWeek": 2188,
-    "timeMonth": 2188,
-    "timeYear": 2188,
+    "time": 2225,
+    "timeDay": 2225,
+    "timeWeek": 2225,
+    "timeMonth": 2225,
+    "timeYear": 2225,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1035,
-    "timeDay": 1035,
-    "timeWeek": 1035,
-    "timeMonth": 1035,
-    "timeYear": 1035,
+    "time": 1023,
+    "timeDay": 1023,
+    "timeWeek": 1023,
+    "timeMonth": 1023,
+    "timeYear": 1023,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1661,
-    "timeDay": 1661,
-    "timeWeek": 1661,
-    "timeMonth": 1661,
-    "timeYear": 1661,
+    "time": 1584,
+    "timeDay": 1584,
+    "timeWeek": 1584,
+    "timeMonth": 1584,
+    "timeYear": 1584,
     "dailyMinutesDown": {}
   },
   {
@@ -82,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 840,
-    "timeDay": 840,
-    "timeWeek": 840,
-    "timeMonth": 840,
-    "timeYear": 840,
+    "time": 873,
+    "timeDay": 873,
+    "timeWeek": 873,
+    "timeMonth": 873,
+    "timeYear": 873,
     "dailyMinutesDown": {}
   },
   {
@@ -95,18 +95,18 @@
     "icon": "https://favicons.githubusercontent.com/www.terapiavisualsanpedrodealcantara.com",
     "slug": "terapia-visual",
     "status": "down",
-    "uptime": "28.08%",
-    "uptimeDay": "28.08%",
-    "uptimeWeek": "28.08%",
-    "uptimeMonth": "28.08%",
-    "uptimeYear": "28.08%",
+    "uptime": "25.22%",
+    "uptimeDay": "25.22%",
+    "uptimeWeek": "25.22%",
+    "uptimeMonth": "25.22%",
+    "uptimeYear": "25.22%",
     "time": 957,
     "timeDay": 957,
     "timeWeek": 957,
     "timeMonth": 957,
     "timeYear": 957,
     "dailyMinutesDown": {
-      "2022-08-30": 6
+      "2022-08-30": 7
     }
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1733,
-    "timeDay": 1733,
-    "timeWeek": 1733,
-    "timeMonth": 1733,
-    "timeYear": 1733,
+    "time": 1755,
+    "timeDay": 1755,
+    "timeWeek": 1755,
+    "timeMonth": 1755,
+    "timeYear": 1755,
     "dailyMinutesDown": {}
   },
   {
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 540,
-    "timeDay": 540,
-    "timeWeek": 540,
-    "timeMonth": 540,
-    "timeYear": 540,
+    "time": 555,
+    "timeDay": 555,
+    "timeWeek": 555,
+    "timeMonth": 555,
+    "timeYear": 555,
     "dailyMinutesDown": {}
   }
 ]
