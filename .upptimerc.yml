@@ -7,10 +7,18 @@ sites:
     url: https://www.google.com
   - name: Natural
     url: https://mercadodevida.es
+  - name: Comer Ecológico
+    url: https://comerecologico.com
   - name: rikrdo.es
     url: https://rikrdo.es
+  - name: Lugar de la Luz
+    url: https://lugardelaluz.es/guests/
+  - name:
+    url: https://terapiavisualsanpedrodealcantara.com/
   - name: Nextcloud Pi
     url: https://ftprikrdo.duckdns.org
+  - name: Gitea
+    url: http://gitrikrdo.duckdns.org:3000/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
