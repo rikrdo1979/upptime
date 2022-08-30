@@ -27,7 +27,7 @@ status-website:
   baseUrl: /upptime
   theme: light
   logoUrl: https://rikrdo.es/images/logo-re.svg
-  #name: re
+  name: ""
   #introTitle: "**Upptime** by GitHub."
   #introMessage: "Sites Monitoring - **rikrdo.es**"
   introTitle: "*rikrdo.es** sites monitoring"
