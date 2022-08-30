@@ -28,8 +28,9 @@ status-website:
   theme: night
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** by GitHub."
-  introMessage: "Sites Monitoring - **rikrdo.es**"
+  #introTitle: "**Upptime** by GitHub."
+  #introMessage: "Sites Monitoring - **rikrdo.es**"
+  introTitle: "Sites Monitoring - **rikrdo.es**"
   navbar:
     - title: Info
       href: https://www.rikrdo.es/cv
