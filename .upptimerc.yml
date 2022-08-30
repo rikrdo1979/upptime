@@ -16,9 +16,9 @@ sites:
   - name: Terapia Visual
     url: https://www.terapiavisualsanpedrodealcantara.com
   - name: Nextcloud Pi
-    url: https://www.ftprikrdo.duckdns.org
+    url: https://ftprikrdo.duckdns.org
   - name: Gitea
-    url: http://www.gitrikrdo.duckdns.org:3000
+    url: http://gitrikrdo.duckdns.org:3000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
