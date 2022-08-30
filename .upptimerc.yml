@@ -28,10 +28,10 @@ status-website:
   theme: night
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Upptime** by GitHub."
   introMessage: "Sites Monitoring - **rikrdo.es**"
   navbar:
-    - title: rikrdo.es
+    - title: Info
       href: https://www.rikrdo.es/cv
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
