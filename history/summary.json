@@ -22,46 +22,50 @@
     "url": "https://www.mercadodevida.es",
     "icon": "https://favicons.githubusercontent.com/www.mercadodevida.es",
     "slug": "natural",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 2316,
     "timeDay": 1941,
     "timeWeek": 2404,
     "timeMonth": 2316,
     "timeYear": 2316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 3
+    }
   },
   {
     "name": "comerecologico.com",
     "url": "https://www.comerecologico.com",
     "icon": "https://favicons.githubusercontent.com/www.comerecologico.com",
     "slug": "comerecologico-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 940,
     "timeDay": 784,
     "timeWeek": 912,
     "timeMonth": 940,
     "timeYear": 940,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 2
+    }
   },
   {
     "name": "rikrdo.es",
     "url": "https://www.rikrdo.es/cv",
     "icon": "https://favicons.githubusercontent.com/www.rikrdo.es",
     "slug": "rikrdo-es",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1072,
@@ -69,17 +73,19 @@
     "timeWeek": 1433,
     "timeMonth": 1072,
     "timeYear": 1072,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 1
+    }
   },
   {
     "name": "Lugar de la Luz",
     "url": "https://www.lugardelaluz.es/guests",
     "icon": "https://favicons.githubusercontent.com/www.lugardelaluz.es",
     "slug": "lugar-de-la-luz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 805,
@@ -87,25 +93,28 @@
     "timeWeek": 756,
     "timeMonth": 805,
     "timeYear": 805,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-20": 1
+    }
   },
   {
     "name": "Terapia Visual",
     "url": "https://terapiavisualsanpedrodealcantara.com",
     "icon": "https://favicons.githubusercontent.com/terapiavisualsanpedrodealcantara.com",
     "slug": "terapia-visual",
-    "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.49%",
-    "uptimeYear": "99.49%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
     "time": 1181,
     "timeDay": 1041,
     "timeWeek": 1141,
     "timeMonth": 1181,
     "timeYear": 1181,
     "dailyMinutesDown": {
+      "2022-09-20": 0,
       "2022-08-30": 153
     }
   },
